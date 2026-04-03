@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jbrasepae/oop-animals-part1#readme",
   "dependencies": {
-    "jasmine": "^3.6.4"
+    "jasmine": "^6.0.0"
   }
 }
